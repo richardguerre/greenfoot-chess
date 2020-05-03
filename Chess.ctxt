@@ -1,0 +1,28 @@
+#BlueJ class context
+comment0.target=Chess
+comment0.text=\r\n\ Chess\ Class\ Template\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ flip()
+comment1.text=\r\n\ (for\ Part\ 1)\r\n\ Flip\ a\ chess\ piece\ that\ is\ currently\ facing\ down\r\n
+comment2.params=
+comment2.target=int\ getRank()
+comment2.text=\r\n\ Get\ the\ rank\ of\ the\ chess\ piece\r\n\ \ \=>\ General\ (Rank\:\ 6)\ The\ highest\ rank\r\n\ \ \=>\ Chariot\ (Rank\:\ 5)\r\n\ \ \=>\ Horse\ (Rank\:\ 4)\r\n\ \ \=>\ Cannon\ (Rank\:\ 3)\r\n\ \ \=>\ Advisor\ (Rank\:\ 2)\r\n\ \ \=>\ Elephant\ (Rank\:\ 1)\r\n\ \ \=>\ Soldier\ (Rank\:\ 0)\ The\ lowest\ rank\r\n
+comment3.params=
+comment3.target=boolean\ getFlipped()
+comment3.text=\r\n\ (for\ Part\ 1)\r\n\ Get\ whether\ the\ chess\ piece\ is\ flipped\ or\ not\r\n\ Return\ true\ if\ it\ is\ flipped,\ return\ false\ otherwise\r\n
+comment4.params=
+comment4.target=int\ getColor()
+comment4.text=\r\n\ (for\ Part\ 1)\r\n\ Get\ the\ color\ of\ the\ chess\ piece\r\n\ Return\ 0\ if\ it\ is\ Red\r\n\ Return\ 1\ if\ it\ is\ Black\r\n
+comment5.params=
+comment5.target=void\ moveLeft()
+comment5.text=\r\n\ (for\ Part\ 2)\ \r\n\ Move\ left\ if\ the\ movement\ is\ valid.\ \r\n\ Elimintate\ the\ opponent\ face-up\ chess\ piece\ if\ any\r\n\ Otherwise,\ stay\ at\ the\ current\ position\r\n
+comment6.params=
+comment6.target=void\ moveRight()
+comment6.text=\r\n\ (for\ Part\ 2)\ \r\n\ Move\ right\ if\ the\ movement\ is\ valid.\ \r\n\ Elimintate\ the\ opponent\ face-up\ chess\ piece\ if\ any\r\n\ Otherwise,\ stay\ at\ the\ current\ position\r\n
+comment7.params=
+comment7.target=void\ moveUp()
+comment7.text=\r\n\ (for\ Part\ 2)\ \r\n\ Move\ up\ if\ the\ movement\ is\ valid.\ \r\n\ Elimintate\ the\ opponent\ face-up\ chess\ piece\ if\ any\r\n\ Otherwise,\ stay\ at\ the\ current\ position\r\n
+comment8.params=
+comment8.target=void\ moveDown()
+comment8.text=\r\n\ (for\ Part\ 2)\ \r\n\ Move\ down\ if\ the\ movement\ is\ valid.\ \r\n\ Elimintate\ the\ opponent\ face-up\ chess\ piece\ if\ any\r\n\ Otherwise,\ stay\ at\ the\ current\ position\r\n
+numComments=9

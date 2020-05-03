@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ChessWorld
+comment0.text=\n\ Initializes\ the\ ChessWorld\ \n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ChessWorld()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ TestWorld.\n\ \n
+comment10.params=
+comment10.target=void\ removeAllChessPieces()
+comment2.params=
+comment2.target=void\ initializeFirstLineWhileLoop()
+comment3.params=
+comment3.target=void\ initializeFirstLineDoWhileLoop()
+comment4.params=
+comment4.target=void\ initializeFirstLineForLoop()
+comment5.params=
+comment5.target=void\ initializePattern1()
+comment6.params=
+comment6.target=void\ initializePattern2()
+comment7.params=
+comment7.target=void\ initializePattern3()
+comment8.params=
+comment8.target=void\ initializePattern4()
+comment9.params=
+comment9.target=void\ initialize()
+numComments=11
